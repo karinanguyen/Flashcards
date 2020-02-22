@@ -7,7 +7,7 @@ Tapping on a question card gives an hidden answer
 
 ### App Walk-though
 
-<img src="https://gph.is/g/ZYlzA3w" width=200><br>
+<img src="https://media.giphy.com/media/Lq6Qr7Go0Q3uPDAdm0/giphy.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
