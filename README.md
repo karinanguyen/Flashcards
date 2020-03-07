@@ -1,11 +1,31 @@
 # Flashcards
 
+## Lab 2 
+
+### Task Description
+Creating a new screen to enter a question and an answer with the option to dismiss an action or save it. 
+
+### App Walk-through
+
+<img src="https://media.giphy.com/media/TdvfMTw5Pe793LAy6b/giphy.gif" width=200><br>
+
+## Required
+- [x] User can open the creation screen
+- [x] User can cancel out of the creation screen
+- [x] User can enter a new question and answer in the creation screen to then show it on the flashcard
+- [x] Push code to GitHub
+## Optional
+- [ ] User gets an error if they try to create a new flashcard with no question or answer
+- [ ] User can edit existing flashcard
+- [ ] User can add multiple choice answers in the creation screen
+
+
 ## Lab 1
 
 ### Task Description
 Tapping on a question card gives an hidden answer
 
-### App Walk-though
+### App Walk-through
 
 <img src="https://media.giphy.com/media/Lq6Qr7Go0Q3uPDAdm0/giphy.gif" width=200><br>
 
@@ -19,24 +39,3 @@ Tapping on a question card gives an hidden answer
 - [ ] Toggle the flashcard between the question side and the answer side
 - [ ] Style the question and answer side of the card to better distinguish between the two sides
 - [ ] Add selectable multiple choice answers beneath the card
-
-
-
-## Lab 2 
-
-### Task Description
-Creating a new screen to enter a question and an answer with the option to dismiss an action or save it. 
-
-### App Walk-though
-
-<img src="https://gph.is/g/aXJlVmp" width=200><br>
-
-## Required
-- [x] User can open the creation screen
-- [x] User can cancel out of the creation screen
-- [x] User can enter a new question and answer in the creation screen to then show it on the flashcard
-- [x] Push code to GitHub
-## Optional
-- [ ] User gets an error if they try to create a new flashcard with no question or answer
-- [ ] User can edit existing flashcard
-- [ ] User can add multiple choice answers in the creation screen
