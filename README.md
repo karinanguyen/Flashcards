@@ -1,5 +1,22 @@
 # Flashcards
 
+## Lab 3 
+
+### Task Description
+Persisting flashcards and savinf  data 
+
+### App Walk-through
+<img src = "https://media.giphy.com/media/dC2qHXNz1egfBotRef/giphy.gif" width=200><br>
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
 ## Lab 2 
 
 ### Task Description
